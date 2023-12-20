@@ -33,7 +33,7 @@ This is collection of codes from the tutorials of [How to C# for Beginners](http
    - [YouTube](https://youtu.be/j8yz_ZbAziA?si=3YzTPNJa9MFGeQOD)
    - [GitHub Code](https://github.com/pangan-dev/How-to-C-Sharp-for-Beginners/blob/main/(Tutorial%2008)%20How%20to%20Create%20Methods/Program.cs)
 
-9. How to Create Classes and Objects
+9. How to Create Classes
    - [YouTube](https://youtu.be/knRPQDitjsI?si=wUUynM8lqY0jXo1N)
    - [GitHub Code](https://github.com/pangan-dev/How-to-C-Sharp-for-Beginners/blob/main/(Tutorial%2009)%20How%20to%20Create%20Classes/Program.cs)
 
